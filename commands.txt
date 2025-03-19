@@ -13,3 +13,4 @@
         detailed information, starting from the left: file permissions, number of links, owner name, owner group, file size,
         timestamp of last modification, and file/directory name
     `-la`/`-al` shows detailed info for all files (including hidden)
+`touch` to create a file & edit timestamp
