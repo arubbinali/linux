@@ -1,0 +1,9 @@
+`whoami` prints username
+`date` prints exact date & time
+`echo` print out the text after the command
+`pwd` print working directory, note the path stems from the root directory
+`cd` change directory:
+    `.` current directory, this is the directory you are currently in
+    `..` parent directory, takes you to the directory above your current
+    `~` home directory, this directory defaults to your “home directory”. such as /home/arubbinali
+    `-` previous directory, this will take you to the previous directory you were just at
