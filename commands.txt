@@ -7,3 +7,9 @@
     `..` parent directory, takes you to the directory above your current
     `~` home directory, this directory defaults to your “home directory”. such as /home/arubbinali
     `-` previous directory, this will take you to the previous directory you were just at
+`ls` list directories
+    `-a` to show all files (including hidden)
+    `-l` shows detailed info
+        detailed information, starting from the left: file permissions, number of links, owner name, owner group, file size,
+        timestamp of last modification, and file/directory name
+    `-la`/`-al` shows detailed info for all files (including hidden)
